@@ -53,6 +53,7 @@
   * [JavaScript](#javascript)
   * [PHP](#php)
   * [iOS](#ios)
+  * [Android](#android)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Shell](#shell)
@@ -86,6 +87,7 @@
 * [Pro Git](http://git-scm.com/book/zh)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 
@@ -110,6 +112,7 @@
 * [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
 * [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
 * [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
 
 ### Web
 
@@ -137,6 +140,9 @@
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 * [How to Think Like a Computer Scientist](http://www.ituring.com.cn/book/1203) (中英文版)
+* [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf)
+* [GNU make中文手册](http://www.yayu.org/book/gnu_make/)
+* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 
 ### CSS
 
@@ -232,6 +238,11 @@
 ### iOS
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
 
 ### Python
 
@@ -239,6 +250,7 @@
 * [Python入门教程](http://liam0205.me/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
+* [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
