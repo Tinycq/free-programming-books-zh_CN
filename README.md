@@ -49,19 +49,24 @@
   * [C/C++](#cc)
   * [CSS/HTML](#css)
   * [Dart](#dart)
+  * [Fortran](#fortran)
   * [Java](#java)
   * [JavaScript](#javascript)
   * [PHP](#php)
   * [iOS](#ios)
   * [Android](#android)
   * [Python](#python)
+  * [Prolog](#prolog)
   * [Ruby](#ruby)
   * [Shell](#shell)
   * [Go](#go)
   * [Groovy](#groovy)
   * [LISP](#lisp)
   * [Haskell](#haskell)
+  * [R](#r)
   * [Scala](#scala)
+  * [Swift](#swift)
+  * [Vimscript](#vimscript)
 
 * [读书笔记及其它](#读书笔记及其它)
   
@@ -125,6 +130,8 @@
 * [Grunt中文文档](http://www.gruntjs.org/)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+* [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+* [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 
 ### 大数据
 
@@ -153,10 +160,15 @@
 * [学习CSS布局](http://zh.learnlayout.com/)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
 * [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+* [前端代码规范](http://alloyteam.github.io/code-guide/)(腾讯alloyteam团队)
 
 ### Dart
 
 * [Dart 语言导览](http://dart.lidian.info/wiki/Language_Tour)
+
+### Fortran
+
+* [Fortran77和90/95编程入门](http://micro.ustc.edu.cn/Fortran/ZJDing/)
 
 ### Java
 
@@ -197,6 +209,7 @@
 * [Google JavaScript 代码风格指南](http://chajn.org/jsguide/javascriptguide.html)
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+* [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
@@ -246,7 +259,7 @@
 
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/#avoid_new)
+* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/)
 
 ### Android
 
@@ -255,7 +268,10 @@
 ### Python
 
 * [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+* [Python 2.7 官方教程中文版](http://www.pythondoc.com/pythontutorial27/index.html)
+* [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 * [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
+* [Google Python 风格指南 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
 * [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
 * [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
@@ -302,14 +318,30 @@
 
 * [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
 
+### R
+
+* [R语言忍者秘笈](https://github.com/yihui/r-ninja)
+
 ### Scala
 
 * [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+
+### Swift
+
+* [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 
 ### Perl
 
 * [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
 * [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
+
+### Prolog
+
+* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
+
+### Vimscript
+
+* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 
 ### 读书笔记及其它
 
