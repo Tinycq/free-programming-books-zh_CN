@@ -1,36 +1,12 @@
-免费的编程中文书籍索引
-============================
+免费的编程中文资料
+==================
 
-免费的编程中文书籍索引，欢迎投稿。
+免费的编程中文书籍索引，欢迎[pull request](https://github.com/flyhigher139/free-programming-books-zh_CN/pulls)或者fork。
 
 - 国外程序员在 [stackoverflow](http://stackoverflow.com/a/1713/343194) 推荐的程序员必读书籍，[中文版](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html "一个合格的程序员应该读过哪些书")。
 - [stackoverflow](http://stackoverflow.com/q/38210/343194) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
 - [github](https://github.com/vhf/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
-## 参与交流
-
-欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
-
-* 使用 [Issues](https://github.com/justjavac/free-programming-books-zh_CN/issues) 以及 Pull Request 
-
-贡献者名单: https://github.com/justjavac/free-programming-books-zh_CN/graphs/contributors
-
-**注**：看到有人 fork 此 repository，其实如果觉得有帮助，可以 star 或者 watch，
-如果 fork 到你的 repositories 下则不能保证你的 repo 是最新的，除非是主动定期的 pull。
-
-* star 的作用是收藏，目的是方便以后查找。
-* watch 的作用是关注，目的是等我更新的时候，你可以收到通知。
-* fork 的作用是参与，目的是你增加新的内容，然后 Pull Request，我会考虑把你的修改和我原来的内容合并。
-
-请选择合理的方式。（上面的内容是写给一些 fork 狂的，很多开发者喜欢 fork 一些 linux 内核，jquery之类的东东，其实这些东东完全没有必要 fork）
-
-## 捐赠与福利
-
-如果觉得我收录的内容对你有帮助，可以捐赠我点比特币 `15hfB3YMe31TkLz9vS8ybY7NFGHRXr2HyP`。
-
-如果你没有可以去这儿**免费领取**：[如何免费获得比特币？](https://github.com/freebitcoin/freebitcoin)
-
-通过 Gittip 捐赠: https://www.gittip.com/justjavac/
 
 ## 目录
 
@@ -305,6 +281,7 @@
 * [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
 * [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
 * [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
+* [The Django Book 中文版](http://docs.30c.org/djangobook2/) by Clove
 * [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
 * [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
 * [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
@@ -315,6 +292,9 @@
 * [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
 * [Google Python 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/)
 * [Python自然语言处理中文版](http://pan.baidu.com/s/1qW4pvnY) （感谢陈涛同学的翻译，也谢谢 [@shwley](https://github.com/shwley) 联系了作者）
+* [PyZh](http://pyzh.readthedocs.org/en/latest/)
+* [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)
+* [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/)
 
 ### Ruby
 
