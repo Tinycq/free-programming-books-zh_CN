@@ -76,6 +76,7 @@
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
 * [沉浸式学 Git](http://igit.linuxtoy.org/)
+* [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
 
 
 ### NoSQL
